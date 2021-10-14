@@ -1,4 +1,4 @@
-# Péter Böröcz's Blog
+# Péter Böröcz's Blog aka *Flirting with Neutrality*
 
 Hi, I'm Péter. This is my blog about various sundry things that cross my mind and have to be written out to get out of my head (think old-man yelling from the porch).
 
@@ -14,8 +14,11 @@ I've never "blogged" before but upon retirement and watching the world go by, th
 * [*Just* vs Makefiles"](nano/just_vs_makefile.md)
 
 ## Projects
-
 * My *Knowledge* Project
+
+## About
+* [About Me](miscellaneous/about.md)
+* [Resumé/Curriculum Vitae](miscellaneous/cv.md)
 
 ## Feedback & Credits
 * If you see a typo or want to comment, submit a pull request!
