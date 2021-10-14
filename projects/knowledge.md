@@ -99,11 +99,11 @@ With thanks to Neil deGrasse Tyson (@neiltyson): [Arc of Enlightenment in a rati
 
 ## Background
 
-   [Methods and visualization tools for the analysis of medical, political and scientific concepts in Genealogies of Knowledge](https://www.nature.com/articles/s41599-020-0423-6) (Nature, 2020-03-20)
-   [The Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) (essentially that the longer something has stayed around, the longer it *will* stay around)
-   [One Process | Reaction Wheel](http://reactionwheel.net/2020/04/one-process.html)
-   [Why the Coronavirus Is So Confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819) (good article on the need for (and importance of) probabilistic knowledge (indirectly)
-   [Metaculus: Pandemics](https://pandemic.metaculus.com/questions/) - crowd-sourced probabilistic forecasting environment
+* [Methods and visualization tools for the analysis of medical, political and scientific concepts in Genealogies of Knowledge](https://www.nature.com/articles/s41599-020-0423-6) (Nature, 2020-03-20)
+* [The Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) (essentially that the longer something has stayed around, the longer it *will* stay around).
+* [One Process | Reaction Wheel](http://reactionwheel.net/2020/04/one-process.html)
+* [Why the Coronavirus Is So Confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819) (good article on the need for (and importance of) probabilistic knowledge (indirectly).
+* [Metaculus: Pandemics](https://pandemic.metaculus.com/questions/) a crowd-sourced probabilistic forecasting environment.
 
 ## Probabilistic Modeling
 
