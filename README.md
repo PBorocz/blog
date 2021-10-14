@@ -4,8 +4,6 @@ Hi, I'm Péter. This is my blog about various sundry things that cross my mind a
 
 I've never "blogged" before but upon retirement and watching the world go by, this seems as good a time as any to get started. Since github is a (the?) ubiquitous platform for the storage of my Emacs' output, what better place to keep and display content (I tried [Hugo](https://gohugo.io "Hugo") but by the time I mastered it, I felt so drained by the experience that I didn't feel like touching it again!)
 
-### Macro
-
 ### Micro
 * [Accrual vs. Cash Accounting in Federal Spending Discourse](micro/accrual_vs_cash_govt.md)
 * ["New on New"](micro/new_on_new.md)
@@ -14,7 +12,7 @@ I've never "blogged" before but upon retirement and watching the world go by, th
 * [*Just* vs Makefiles"](nano/just_vs_makefile.md)
 
 ## Projects
-* My *Knowledge* Project
+* [My *Knowledge* Project](projects/knowledge.md)
 
 ## About
 * [About Me](miscellaneous/about.md)
