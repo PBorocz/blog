@@ -36,4 +36,4 @@ Many (many) years ago, my hour-long daily commute time was taken up with [CNBC's
 
 I noted this wonderful aphorism at the time and it came back to me in the current climate. Specifically, a predilection to holding socially **liberal** but economically **conservative** views. Thus, not easily fitting anywhere on the classic Republican-Democratic spectrum (albeit leaning heavily small and large "D" democratic for the majority of policy issues).
 
-Thus, [**Flirting with Neutrality**](/) it is!
+Thus, [**Flirting with Neutrality**](https://github.com/PBorocz/blog) it is!
